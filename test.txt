@@ -7,3 +7,4 @@ add 2
 checkout to dev
 add feature2
 add feature
+no-ff
