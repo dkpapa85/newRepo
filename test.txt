@@ -6,3 +6,4 @@ add 1
 add 2
 checkout to dev
 add feature2
+add feature
