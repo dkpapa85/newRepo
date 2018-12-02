@@ -8,3 +8,4 @@ checkout to dev
 add feature2
 add feature
 no-ff
+test no-ff
